@@ -8,7 +8,7 @@
 
 :heart: Learn | :black_heart: Music  | :yellow_heart: Beer | :blue_heart: Programming
 
-Here are some to get you started:
+Here are some things to get you started:
 
 - 🧑🏾‍💻 I’m currently working on [Django Framework 3](https://github.com/fharaujo/contactsbook)
 - 📖 I’m currently learning - Django RestFramework
