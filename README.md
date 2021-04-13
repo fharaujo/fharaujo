@@ -12,7 +12,7 @@ Here are some things to get you started:
 
 - 🧑🏾‍💻 I’m currently working on [Django Framework 3](https://github.com/fharaujo/contactsbook)
 - 📖 I’m currently learning - Django RestFramework
-
+- 🔥 Eternal apprentice in the technology
 # Social media / Contatos :mailbox_with_no_mail:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/fharaujo/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/fhsaraujo)
