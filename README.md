@@ -6,7 +6,7 @@
 </h1>
 
 
-:heart: Learn | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Learn | :black_heart: Hip-Hop  | :yellow_heart: Beer | :blue_heart: Programming
 
 Here are some to get you started:
 
