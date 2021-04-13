@@ -8,10 +8,10 @@
 
 :heart: Learn | :black_heart: Hip-Hop | :blue_heart: Programming
 
-Here are some ideas to get you started:
+Here are some to get you started:
 
-- 🔭 I’m currently working on [Django Framework 3](https://github.com/fharaujo/contactsbook)
-- 🌱 I’m currently learning  Django Rest Framework
+- 🧑🏾‍💻 I’m currently working on [Django Framework 3](https://github.com/fharaujo/contactsbook)
+- 📖 I’m currently learning - Django RestFramework
 
 # Social media / Contatos :mailbox_with_no_mail:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/fharaujo/)
