@@ -1,4 +1,4 @@
-# Hello, World! 👋🏾
+# Hello, World! 👋🏾:earth_americas:
 <h1 align="center">
 
   <img src="https://ik.imagekit.io/8nqfm5rjo/tumblr_pv6ng37rWT1r2pp2to1_500_PGig0ckUb.gif" />
@@ -6,7 +6,7 @@
 </h1>
 
 
-:heart: Learn | :black_heart: Music  | :yellow_heart: Beer | :blue_heart: Programming
+:heart: Learn | :black_heart: Music  | :yellow_heart: Beer | :blue_heart: Programming | :revolving_hearts: Flamengo
 
 Here are some things to get you started:
 
