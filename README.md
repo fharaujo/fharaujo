@@ -6,7 +6,7 @@
 </h1>
 
 
-:heart: Learn | :black_heart: Music  | :yellow_heart: Beer | :blue_heart: Programming | :revolving_hearts: Flamengo
+:heart: Learn | :black_heart: Music  | :yellow_heart: Beer | :blue_heart: Programming | :revolving_hearts: Flamengo and my Family
 
 Here are some things to get you started:
 
