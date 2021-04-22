@@ -1,6 +1,6 @@
 # Hello, World! 👋🏾:earth_americas:
 
-![Fábio Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Fábio Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="center">
