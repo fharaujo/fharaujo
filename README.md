@@ -1,7 +1,7 @@
 # Hello, World! 👋🏾:earth_americas:
-<h1 align="center">
+
 ![Fábio Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
+
 
 <h1 align="center">
 
