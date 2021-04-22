@@ -1,4 +1,6 @@
 # Hello, World! 👋🏾:earth_americas:
+
+![Fábio Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)
 <h1 align="center">
 
   <img src="https://ik.imagekit.io/8nqfm5rjo/tumblr_pv6ng37rWT1r2pp2to1_500_PGig0ckUb.gif" />
