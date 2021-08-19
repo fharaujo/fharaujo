@@ -11,7 +11,7 @@
 
 Here are some things to get you started:
 
-- 🧑🏾‍💻 I’m currently working on [Node.js](https://github.com/fharaujo/contactsbook)
+- 🧑🏾‍💻 I’m currently working on [Node.js](https://github.com/fharaujo/backend)
 - 📖 I’m currently learning - Node.js
 - 🔥 Eternal apprentice in the technology<br>
 
