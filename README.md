@@ -25,4 +25,8 @@ Here are some things to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8&theme=radical&layout=compact)](https://github.com/fharaujo)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true)
+
 Visit Blog: https://fharaujo.github.io/
+<br><br>
+![Profile View Counter](https://komarev.com/ghpvc/?username=fharaujo)
