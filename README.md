@@ -13,19 +13,20 @@ Here are some things to get you started:
 
 - 🧑🏾‍💻 I’m currently working on [Node.js](https://github.com/fharaujo/backend)
 - 📖 I’m currently learning - Node.js
-- 🔥 Eternal apprentice in the technology<br>
+- 🔥 Eternal apprentice in the technology<br><br>
 
 
+ # Statistics 📈:<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8&theme=radical&layout=compact)](https://github.com/fharaujo)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true)
+
+
+<br><br>
 # Social media / Contacts :mailbox_with_no_mail:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fharaujo/)](https://www.linkedin.com/in/fharaujo/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/fhsaraujo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:araujofabio2012@gmail.com)](mailto:araujofabio2012@gmail.com)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&langs_count=8&theme=radical&layout=compact)](https://github.com/fharaujo)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true)
 
 Visit Blog: https://fharaujo.github.io/
 <br><br>
