@@ -11,8 +11,8 @@
 
 Here are some things to get you started:
 
-- 🧑🏾‍💻 I’m currently working on [Django](https://github.com/fharaujo/crud_django)
-- 📖 I’m currently learning - Django
+- 🧑🏾‍💻 I’m currently working on [Java](https://github.com/soujava)
+- 📖 I’m currently learning - Java
 - 🔥 Eternal apprentice in the technology<br><br>
 
 
