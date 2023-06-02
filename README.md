@@ -18,7 +18,7 @@ Here are some things to get you started:
 
  # Statistics 📈:<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fharaujo&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
