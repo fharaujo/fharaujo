@@ -17,7 +17,7 @@ Here are some things to get you started:
 
 
  # Statistics 📈:<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fharaujo&show_icons=true&theme=radical)
 
 
 <br><br>
