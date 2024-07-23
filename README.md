@@ -1,4 +1,4 @@
-# Hello, World! 👋🏾:earth_americas:
+# Hello, World! 👋🏾
 
 
 
